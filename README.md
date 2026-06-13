@@ -4,7 +4,7 @@
 <p align="center">I have been writing code since 2018</p>
 <p align="center">The programming languages I use the most are C++ and Python</p>
 <p align="center">I'm really into synthwave</p>
-<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOLJLbildHtUC0GJRY71j1ePEicDYjQChEA&s" width="900" height="506.25" style="image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;"</p>
+<p align="center"><img src="los-angles-synthwave-4k-wp.jpg"</p>
 <!-- synthwave image source https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOLJLbildHtUC0GJRY71j1ePEicDYjQChEA&s --> 
   
 <!--
