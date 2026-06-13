@@ -1,5 +1,5 @@
 <h1 align="center">Hello, welcome to my GitHub</h1>
-<h2>About me </h2>
+<h2 align="center">About me </h2>
 <p align="center">I am a software engineer from Cincinnati, Ohio</p>
 <p align="center">I have been writing code since 2018</p>
 <p align="center">The programming languages I use the most are C++ and Python</p>
